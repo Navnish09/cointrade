@@ -13,7 +13,7 @@ import { Apple, Google, Lock, Mail, Name } from "@icons";
 import classes from "./Signup.module.scss";
 import { useRouter } from "next/navigation";
 
-export const Signup = () => {
+const Signup = () => {
   const router = useRouter();
 
   return (
