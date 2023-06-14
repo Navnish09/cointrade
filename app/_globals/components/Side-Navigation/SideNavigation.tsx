@@ -24,7 +24,7 @@ export const SideNavigation = () => {
     <div className={classes["side_navigation_container"]}>
       <div className={classes["navigation-wrapper"]}>
         <div className={classes["logo_container"]}>
-          <img src="/images/Logo.svg" alt="Logo" />
+          <img src="/Images/Logo.svg" alt="Logo" />
         </div>
         <nav className={classes["nav"]}>
           <ul>
