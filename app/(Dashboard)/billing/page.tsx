@@ -3,7 +3,7 @@ import React from "react";
 import { BillingHistory } from "@lib/BillingHistory";
 import { PaymentHistory } from "@lib/PaymentHistory";
 
-export const BillingPage = () => {
+const BillingPage = () => {
   return (
     <div className="flex gap-5">
       <BillingHistory />

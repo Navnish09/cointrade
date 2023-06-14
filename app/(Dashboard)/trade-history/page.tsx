@@ -3,7 +3,7 @@ import React from "react";
 import classes from "./TradeHistory.module.scss";
 import { OpenTrades } from "@lib/OpenTrades";
 
-export const TradeHistory = () => {
+const TradeHistory = () => {
   return (
     <div className={classes["trade_container"]}>
       <div className={classes["trade_wrapper"]}>

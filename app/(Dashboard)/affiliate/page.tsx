@@ -5,7 +5,7 @@ import { InviteNow } from "@lib/InviteNow/InviteNow";
 import classes from "./Affiliate.module.scss";
 import { AffiliateOverview } from "@lib/AffiliateOverview";
 
-export const AffilicatePage = () => {
+const AffilicatePage = () => {
   return (
     <div className={classes["affiliate_container"]}>
       <div className={classes["affiliate_banner"]}>
