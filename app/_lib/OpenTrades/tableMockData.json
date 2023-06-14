@@ -1,0 +1,86 @@
+{
+  "columns": [
+    {
+      "header": "Date & Time",
+      "id": "date"
+    },
+    {
+      "header": "Trade Pair",
+      "id": "trade_pair"
+    },
+    {
+      "header": "Quantity",
+      "id": "quantity"
+    },
+    {
+      "header": "Buy Price",
+      "id": "price"
+    },
+    {
+      "header": "Fee Paid",
+      "id": "fee"
+    },
+    {
+      "header": "Total Invested",
+      "id": "invested"
+    }
+  ],
+  "data": [
+    {
+      "date": "26th march 10:30:34 AM",
+      "trade_pair": "Trade Pair",
+      "quantity": 25,      
+      "price": "$384",
+      "fee": "$12",
+      "invested" : "$756"
+    },
+    {
+      "date": "26th march 10:30:34 AM",
+      "trade_pair": "Trade Pair",
+      "quantity": 25,      
+      "price": "$384",
+      "fee": "$12",
+      "invested" : "$756"
+    },
+    {
+      "date": "26th march 10:30:34 AM",
+      "trade_pair": "Trade Pair",
+      "quantity": 25,      
+      "price": "$384",
+      "fee": "$12",
+      "invested" : "$756"
+    },
+    {
+      "date": "26th march 10:30:34 AM",
+      "trade_pair": "Trade Pair",
+      "quantity": 25,      
+      "price": "$384",
+      "fee": "$12",
+      "invested" : "$756"
+    },
+    {
+      "date": "26th march 10:30:34 AM",
+      "trade_pair": "Trade Pair",
+      "quantity": 25,      
+      "price": "$384",
+      "fee": "$12",
+      "invested" : "$756"
+    },
+    {
+      "date": "26th march 10:30:34 AM",
+      "trade_pair": "Trade Pair",
+      "quantity": 25,      
+      "price": "$384",
+      "fee": "$12",
+      "invested" : "$756"
+    },
+    {
+      "date": "26th march 10:30:34 AM",
+      "trade_pair": "Trade Pair",
+      "quantity": 25,      
+      "price": "$384",
+      "fee": "$12",
+      "invested" : "$756"
+    }
+  ]
+}

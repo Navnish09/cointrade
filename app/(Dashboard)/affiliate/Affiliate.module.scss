@@ -1,0 +1,31 @@
+.affiliate_container {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+
+  .affiliate_banner {
+    background: #f9ecdc;
+    padding: 10px 32px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    .banner_content {
+      width: 40%;
+      display: flex;
+      flex-direction: column;
+      gap: 4rem;
+
+      p {
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 24px;
+      }
+    }
+  }
+
+  .affiliate_details{
+    display: flex;
+    gap: 2rem;
+  }
+}

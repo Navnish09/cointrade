@@ -1,0 +1,18 @@
+.top_navigation_container {
+  position: sticky;
+  width: 100%;
+  background: #fcfcfc;
+  padding: 18px 40px;
+  max-height: 96px;
+  top: 0;
+
+  .navigation_wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    .search_input {
+      color: #6f767e;
+    }
+  }
+}

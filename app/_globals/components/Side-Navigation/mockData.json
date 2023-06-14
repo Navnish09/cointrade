@@ -1,0 +1,47 @@
+{
+  "items": [
+    {
+      "label": "Home",
+      "href": "/",
+      "icon": "home"
+    },
+    {
+      "label": "Trade History",
+      "href": "/trade-history",
+      "icon": "history"
+    },
+    {
+      "label": "Billing",
+      "href": "/billing",
+      "icon": "card"
+    },
+    {
+      "label": "Affiliate Program",
+      "href": "/affiliate",
+      "icon": "diamond"
+    },
+    {
+      "label": "Settings",
+      "href": "/settings",
+      "icon": "settings",
+      "subMenu": [
+        {
+          "label": "2FA Settings",
+          "href": "/settings/2fa"
+        },
+        {
+          "label": "Bot Settings",
+          "href": "/settings/bots"
+        },
+        {
+          "label": "Trade Settings",
+          "href": "/settings/trade"
+        },
+        {
+          "label": "Notification Settings",
+          "href": "/settings/notifications"
+        }
+      ]
+    }
+  ]
+}

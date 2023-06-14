@@ -1,0 +1,30 @@
+{
+  "columns": [
+    {
+      "header": "Date & Time",
+      "id": "date"
+    },
+    {
+      "header": "Payment Amount",
+      "id": "amount"
+    }
+  ],
+  "data": [
+    {
+      "date": "26th march 10:30:34 AM",
+      "amount": "$120"
+    },
+    {
+      "date": "26th march 10:30:34 AM",
+      "amount": "$512"
+    },
+    {
+      "date": "26th march 10:30:34 AM",
+      "amount": "$212"
+    },
+    {
+      "date": "26th march 10:30:34 AM",
+      "amount": "$700"
+    }
+  ]
+}

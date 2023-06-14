@@ -1,0 +1,64 @@
+{
+  "columns": [
+    {
+      "header": "Date & Time",
+      "id": "date"
+    },
+    {
+      "header": "Net Profit",
+      "id": "net_profit"
+    },
+    {
+      "header": "CoinTrade Fee Rate",
+      "id": "fee_rate"
+    },
+    {
+      "header": "CoinTrade Fee",
+      "id": "fee"
+    }
+  ],
+  "data": [
+    {
+      "date": "26th march 10:30:34 AM",
+      "net_profit": "$32,030",
+      "fee_rate": 25,
+      "fee": "$12"
+    },
+    {
+      "date": "26th march 10:30:34 AM",
+      "net_profit": "$32,030",
+      "fee_rate": 25,
+      "fee": "$12"
+    },
+    {
+      "date": "26th march 10:30:34 AM",
+      "net_profit": "$32,030",
+      "fee_rate": 25,
+      "fee": "$12"
+    },
+    {
+      "date": "26th march 10:30:34 AM",
+      "net_profit": "$32,030",
+      "fee_rate": 25,
+      "fee": "$12"
+    },
+    {
+      "date": "26th march 10:30:34 AM",
+      "net_profit": "$32,030",
+      "fee_rate": 25,
+      "fee": "$12"
+    },
+    {
+      "date": "26th march 10:30:34 AM",
+      "net_profit": "$32,030",
+      "fee_rate": 25,
+      "fee": "$12"
+    },
+    {
+      "date": "26th march 10:30:34 AM",
+      "net_profit": "$32,030",
+      "fee_rate": 25,
+      "fee": "$12"
+    }
+  ]
+}

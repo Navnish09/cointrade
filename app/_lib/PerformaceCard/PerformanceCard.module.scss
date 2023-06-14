@@ -1,0 +1,10 @@
+.performance_card_container {
+  padding: 1rem;
+  width: 316px;
+  border-radius: 10px;
+  flex-grow: 1;
+  .performance_card_content {
+    padding: 1rem;
+    display: flex;
+  }
+}

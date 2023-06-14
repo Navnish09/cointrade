@@ -1,0 +1,60 @@
+.invite_card_container {
+  display: flex;
+  flex-direction: column;
+  gap: 2.5rem;
+
+  .invite_card_header {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+
+    p {
+      font-weight: 500;
+      font-size: 13px;
+      line-height: 18px;
+      color: #6f767e;
+    }
+  }
+
+  .invite_card_content {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+
+    .label {
+      font-weight: 600;
+      font-size: 13px;
+      line-height: 32px;
+      color: #1a1d1f;
+    }
+
+    ul {
+      display: flex;
+      flex-direction: column;
+      gap: 2rem;
+      li {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+        img {
+          height: 32px;
+          width: 32px;
+        }
+
+        p {
+          font-weight: 600;
+          font-size: 12px;
+          line-height: 16px;
+          color: #6f767e;
+        }
+      }
+    }
+
+    .invite_url_container{
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+    }
+  }
+}

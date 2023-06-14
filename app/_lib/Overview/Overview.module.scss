@@ -1,0 +1,10 @@
+.overview_container {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.overview_cards_container {
+  display: flex;
+  gap: 12px;
+}

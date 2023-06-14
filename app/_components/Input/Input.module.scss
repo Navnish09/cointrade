@@ -1,0 +1,51 @@
+.input {
+  align-items: center;
+  border-radius: 12px;
+  display: flex;
+  overflow: hidden;
+  background: #f4f4f4;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  position: relative;
+
+  &.focused {
+  outline: 2px solid #9a9fa5;
+  background: #ffffff;
+  }
+
+  &.disabled {
+    background: #f4f4f4;
+    cursor: not-allowed;
+
+    input {
+      cursor: not-allowed;
+    }
+  }
+
+  &.no-icon {
+    padding: 0 10px;
+  }
+
+  .icon {
+    padding: 10px 12px;
+  }
+
+  input {
+    position: relative;
+    color: #1a1d1f;
+    background: inherit;
+    outline: none;
+    border: none;
+    font-size: 13px;
+    font-weight: 600;
+
+    &.medium {
+      height: 32px;
+    }
+
+    &.large {
+      height: 38px;
+    }
+  }
+}

@@ -1,0 +1,55 @@
+
+    .metric_content {
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+
+      .icon_container {
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+
+      .content-main {
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
+        .title_container {
+          display: flex;
+          align-items: center;
+          font-weight: 600;
+          color: #33383f;
+          gap: 5px;
+          font-size: 13px;
+          line-height: 16px;
+        }
+
+        .metric_container {
+          background: #fcfcfc;
+          font-size: 12px;
+          font-weight: 700;
+          color: #6f767e;
+          display: flex;
+          gap: 4px;
+          align-items: center;
+          padding: 4px;
+          border-radius: 10px;
+
+          .metric {
+            display: flex;
+            align-items: center;
+
+            &.positive_metric {
+              color: #83bf6e;
+            }
+
+            &.negative_metric {
+              color: #ff6a55;
+            }
+          }
+        }
+      }
+    }
